@@ -36,7 +36,7 @@ a more detailed description.
 To reproduce our results: 
 - Download the data (please, note that the *CLPsych Dataset* is not publicly available)
 - Download the notebooks from [here](https://github.com/helemanc/COVID19-twitter-depression/tree/main/notebooks)
-- Run fist the *NLP_Project.ipynb* notebook and then the *CLPsych.ipynb* notebook. 
+- Run first the *NLP_Project.ipynb* notebook and then the *CLPsych.ipynb* notebook
 
 ## Results
 A detailed analysis of the results can be found [here](https://github.com/helemanc/COVID19-twitter-depression/tree/main/report).
