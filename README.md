@@ -29,5 +29,20 @@ some interesting aspects that could be the starting point for a more in-depth an
 - Features Extraction 
 - Tweets Classification 
 
-Please, refer to the [notebook])https://github.com/helemanc/COVID19-twitter-depression/tree/main/demo
+Please, refer to the [notebooks](https://github.com/helemanc/COVID19-twitter-depression/tree/main/notebooks) folder for 
+a more detailed description.
 
+## Running the code 
+To reproduce our results: 
+- Download the data (please, note that the *CLPsych Dataset* is not publicly available)
+- Downlaod the notebooks from [here](https://github.com/helemanc/COVID19-twitter-depression/tree/main/notebooks)
+- Run fist the *NLP_Project.ipynb* notebook and then the *CLPsych.ipynb* notebook. 
+
+## Results
+A detailed analysis of the results can be found [here](https://github.com/helemanc/COVID19-twitter-depression/tree/main/report).
+
+## Authors
+Eleonora Mancini, Eleonora Misino
+
+## License 
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/helemanc/COVID19-twitter-depression/blob/main/LICENSE) file for details.
